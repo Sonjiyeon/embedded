@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include "myProjech.h"
+
+int main(void){
+    printf("Chief name is 정규민\n");
+    printMyName1();
+    printMyName2();
+}
